@@ -55,7 +55,7 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Cardiology and Orthopedics generate approximately 50% of revenue, likely due to expensive procedures (e.g., MRI/CT). Pediatrics contributes the least but remains stable.
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Invest in Neurology for growth, as its share is low.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Invest in Neurology for growth, as its share is low.
 
 * ### Procedure Distribution
 
@@ -69,7 +69,7 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** X-Ray is the leader (31% of total) due to its frequency in emergency cases. MRI and CT are expensive but less common.
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Optimize X-Ray procurement to reduce costs.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Optimize X-Ray procurement to reduce costs.
 
 * ###  Distribution by Diagnoses and Service Types
 
@@ -83,7 +83,7 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Hypertension is the top diagnosis (40% of revenue), mainly outpatient. Emergency visits are higher for Asthma and Fractures.
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Focus on chronic disease prevention (Hypertension) to reduce outpatient load.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Focus on chronic disease prevention (Hypertension) to reduce outpatient load.
 
 * ###  Regional Distribution
 
@@ -98,13 +98,51 @@ Top cities: Edinburgh (1,021,264 GBP), Birmingham (821,900 GBP).
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Wales is the leader (39% of revenue), likely due to a higher number of visits. England shows lower efficiency (fewer visits but higher bills).
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Expand services in Scotland for better balance.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Expand services in Scotland for better balance.
 
 * ### Visits and Hospitalizations
+General visits: 5,000 (61% non-emergency, 39% emergency). Hospitalized: 1,232 (25% of visits). Outpatient: 2,520.
+Length of stay (LOS):
+| Age Group | Number of Patients |
+|-----------|-----------------|
+| 0-3       | 435             |
+| 4-6       | 407             |
+| 7         | 143             |
+| 8+        | 247             |
+
+Visits by month: Peak in January 2025 (925), lowest in October 2024 (45).
+Hospitalizations by month: Peak in January 2025 (445).
+
+**Visits by departments and types:**
+
+| Department       | Emergency | Inpatient | Outpatient |
+|-----------------|-----------|-----------|------------|
+| Orthopedics      | 343       | 337       | 499        |
+| Cardiology       | 266       | 272       | 743        |
+| General Surgery  | 267       | 268       | 650        |
+| Neurology        | 194       | 183       | 320        |
+| Pediatrics       | 165       | 185       | 308        |
 
 
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Emergency visits account for 39%, mainly in Orthopedics (possibly trauma-related).
 
+Trend: Increasing visits in 2025, but hospitalizations decline after January. 
 
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Prepare resources for the winter peak.
+
+* ### Provider Ratings
+
+| Provider          | Average Rating |
+|------------------|----------------|
+| Dr. Olu Abisola   | 5.45           |
+| Dr. Johnson Grek  | 5.05           |
+| Dr. Emma Jones    | 4.85           |
+| Dr. Ravi Patel    | 3.36           |
+| Dr. Sade Kikiola  | 2.35           |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Top ratings are seen in African/European providers; low ratings are observed for the Indian and Nigerian providers.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Conduct training for low-rated providers to improve satisfaction (overall average ~4.2).
 
 
 
