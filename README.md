@@ -19,7 +19,7 @@ Welcome to the GitHub repository for my exciting Power BI project - Analysis the
 * Clarity: Presented the data in a clear and concise manner, makes it easy for stakeholders to understand the insights.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2e00bec0-d629-4368-9657-90e933350f74" /> General overview
-The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). The total cost of services is **£ 3,356,075**, with an average of **£ 671.22** per visit. The dashboard covers financial metrics, regional distribution (map), procedures/diagnoses/departments (bar charts), length of stay (LOS), visit types (pie chart), and monthly trends (line chart).
+The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). The total cost of services is **£ 3,356,075**, with an average of **£ 674.86** per visit. The dashboard covers financial metrics, regional distribution (map), procedures/diagnoses/departments (bar charts), length of stay (LOS), visit types (pie chart), and monthly trends (line chart).
 
 
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/474bef16-bbf3-431f-be3d-11f6fbf1270c" />
@@ -33,12 +33,12 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 | Metric             | Total Amount  | Average per Visit  |
 |--------------------|---------------------|---------------------------|
-| Billing Amount     | £ 3,356,075           | £ 671.22                    |
+| Billing Amount     | £ 3,356,075           | £ 674.86                    |
 | Medication Cost    | £ 546,039             | £ 109.21                    |
 | Treatment Cost     | £ 2,630,406           | £ 526.08                    |
-| Insurance Coverage | £ 2,225,924           | £ 445.18                    |
-| Out-of-Pocket      | £ 1,130,151           | £ 226.03                    |
-| Room Charges       | £ 179,630             | £ 35.93                     |
+| Insurance Coverage | £ 2,225,924           | £ 456.04                    |
+| Out-of-Pocket      | £ 1,130,151           | £ 227.26                    |
+| Room Charges       | £ 179,630             | £ 36.12                     |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:**  Insurance covers approximately 66% of all bills, while patients pay around 34% out of pocket. Room charges are low (5% of the total) but relevant for hospitalized cases (1,232 visits).  
 
@@ -107,10 +107,11 @@ Top cities: Edinburgh (£ 1,021,264), Birmingham (£ 821,900).
 Length of stay (LOS):
 | Days | Number of Patients |
 |-----------|-----------------|
-| 0-3       | 435             |
-| 4-6       | 407             |
-| 7         | 143             |
+| 1         | 146             |
+| 2-4       | 430             |
+| 5-7       | 409             |
 | 8+        | 247             |
+
 
 **Visits by month:** Peak in January 2025 (925), lowest in October 2024 (45). **Hospitalizations by month:** Peak in January 2025 (445).
 
@@ -141,9 +142,10 @@ Length of stay (LOS):
 | Dr. Ravi Patel    | 3.36           |
 | Dr. Sade Kikiola  | 2.35           |
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Top ratings are seen in African/European providers; low ratings are observed for the Indian and Nigerian providers.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Top ratings are observed among African and European specialists, while lower ratings are seen among specialists from India and Nigeria.
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Conduct training for low-rated providers to improve satisfaction (overall average ~4.2).
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Training for low-rated specialists to improve the quality of medical care (overall average ~4.2).
 
 
 
