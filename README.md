@@ -18,7 +18,7 @@ Welcome to the GitHub repository for my exciting Power BI project - Analysis the
 * Clarity: Presented the data in a clear and concise manner, makes it easy for stakeholders to understand the insights.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2e00bec0-d629-4368-9657-90e933350f74" /> General overview
-The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). The total cost of services is **3,356,075 GBP**, with an average of **671.22 GBP** per visit. The dashboard covers financial metrics, regional distribution (map), procedures/diagnoses/departments (bar charts), length of stay (LOS), visit types (pie chart), and monthly trends (line chart).
+The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). The total cost of services is **£ 3,356,075**, with an average of **£ 671.22** per visit. The dashboard covers financial metrics, regional distribution (map), procedures/diagnoses/departments (bar charts), length of stay (LOS), visit types (pie chart), and monthly trends (line chart).
 
 
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/474bef16-bbf3-431f-be3d-11f6fbf1270c" />
@@ -30,14 +30,14 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 * ### Financial Metrics 
 
-| Metric             | Total Amount (GBP) | Average per Visit (GBP) |
+| Metric             | Total Amount  | Average per Visit  |
 |--------------------|---------------------|---------------------------|
-| Billing Amount     | 3,356,075           | 671.22                    |
-| Medication Cost    | 546,039             | 109.21                    |
-| Treatment Cost     | 2,630,406           | 526.08                    |
-| Insurance Coverage | 2,225,924           | 445.18                    |
-| Out-of-Pocket      | 1,130,151           | 226.03                    |
-| Room Charges       | 179,630             | 35.93                     |
+| Billing Amount     | £ 3,356,075           | £ 671.22                    |
+| Medication Cost    | £ 546,039             | £ 109.21                    |
+| Treatment Cost     | £ 2,630,406           | £ 526.08                    |
+| Insurance Coverage | £ 2,225,924           | £ 445.18                    |
+| Out-of-Pocket      | £ 1,130,151           | £ 226.03                    |
+| Room Charges       | £ 179,630             | £ 35.93                     |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:**  Insurance covers approximately 66% of all bills, while patients pay around 34% out of pocket. Room charges are low (5% of the total) but relevant for hospitalized cases (1,232 visits).  
 
@@ -45,13 +45,13 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 * ### Department Distribution
 
-| Department       | Billing Amount (GBP) | Share (%) |
+| Department       | Billing Amount  | Share  |
 |-----------------|---------------------|-----------|
-| Cardiology       | 846,925             | 25.2      |
-| Orthopedics      | 813,253             | 24.2      |
-| General Surgery  | 783,247             | 23.3      |
-| Neurology        | 478,200             | 14.2      |
-| Pediatrics       | 434,450             | 12.9      |
+| Cardiology       | £ 846,925             | 25.2 %     |
+| Orthopedics      | £ 813,253             | 24.2 %     |
+| General Surgery  | £ 783,247             | 23.3 %     |
+| Neurology        | £ 478,200             | 14.2 %      |
+| Pediatrics       | £ 434,450             | 12.9 %      |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Cardiology and Orthopedics generate approximately 50% of revenue, likely due to expensive procedures (e.g., MRI/CT). Pediatrics contributes the least but remains stable.
 
@@ -59,13 +59,13 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 * ### Procedure Distribution
 
-| Procedure    | Billing Amount (GBP) |
+| Procedure    | Billing Amount |
 |-------------|---------------------|
-| X-Ray       | 1,053,529           |
-| CT Scan     | 805,508             |
-| MRI Scan    | 600,739             |
-| Ultrasound  | 481,347             |
-| Blood Test  | 414,952             |
+| X-Ray       | £ 1,053,529           |
+| CT Scan     | £ 805,508             |
+| MRI Scan    | £ 600,739             |
+| Ultrasound  | £ 481,347             |
+| Blood Test  | £ 414,952             |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** X-Ray is the leader (31% of total) due to its frequency in emergency cases. MRI and CT are expensive but less common.
 
@@ -73,13 +73,13 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 * ###  Distribution by Diagnoses and Service Types
 
-| Diagnosis      | Emergency (GBP) | Inpatient (GBP) | Outpatient (GBP) | Total (GBP) |
+| Diagnosis      | Emergency  | Inpatient  | Outpatient  | Total  |
 |---------------|----------------|----------------|-----------------|-------------|
-| Hypertension  | 295,617        | 316,481        | 716,115         | 1,328,213   |
-| Appendicitis  | 143,289        | 146,923        | 371,306         | 661,518     |
-| Asthma        | 187,044        | 186,479        | 255,982         | 629,505     |
-| Migraine      | 89,536         | 88,402         | 147,481         | 325,419     |
-| Fracture      | 121,867        | 117,424        | 172,129         | 411,420     |
+| Hypertension  | £ 295,617        | £ 316,481        | £ 716,115         | £ 1,328,213   |
+| Appendicitis  | £ 143,289        | £ 146,923        | £ 371,306         | £ 661,518     |
+| Asthma        | £ 187,044        | £ 186,479        | £ 255,982         | £ 629,505     |
+| Migraine      | £ 89,536         | £ 88,402         | £ 147,481         | £ 325,419     |
+| Fracture      | £ 121,867        | £ 117,424        | £ 172,129         | £ 411,420     |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Hypertension is the top diagnosis (40% of revenue), mainly outpatient. Emergency visits are higher for Asthma and Fractures.
 
@@ -87,14 +87,14 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 * ###  Regional Distribution
 
-Top cities: Edinburgh (1,021,264 GBP), Birmingham (821,900 GBP).
+Top cities: Edinburgh (£ 1,021,264), Birmingham (£ 821,900).
 
-| State/Country       | Billing Amount (GBP) | Visits |
+| State/Country       | Billing Amount | Visits |
 |--------------------|--------------------|--------|
-| Wales              | 1,302,079          | 1,899  |
-| Northern Ireland   | 1,050,377          | 1,548  |
-| England            | 580,205            | 916    |
-| Scotland           | 423,414            | 637    |
+| Wales              | £ 1,302,079          | 1,899  |
+| Northern Ireland   | £ 1,050,377          | 1,548  |
+| England            | £ 580,205            | 916    |
+| Scotland           | £ 423,414            | 637    |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Wales is the leader (39% of revenue), likely due to a higher number of visits. England shows lower efficiency (fewer visits but higher bills).
 
