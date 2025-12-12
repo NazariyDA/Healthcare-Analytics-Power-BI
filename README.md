@@ -5,15 +5,16 @@ Welcome to the GitHub repository for my exciting Power BI project - Analysis the
 
 🧩 Used technologies: **Power BI** with **Power Query** (data cleaning and transformation)
 
-## 🎯 Objectives of this project
-#### ➤ **KPIs:** 
-* Identify and present the key performance indicators (KPIs)
-#### ➤ **Detailed Analysis:** 
-* Ensure the analysis is thorough and detailed, covering all relevant aspects of the healthcare center's finance and the performance of healthcare providers.
-#### ➤ **Dashboard Creation**: Create a comprehensive dashboard  that includes:
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/190d7aa4-6ac1-4060-bf2b-7c58be120a0c" /> Objectives of this project
+**KPIs:** Identify and present the key performance indicators (KPIs)
+
+**Detailed Analysis:** Ensure the analysis is thorough and detailed, covering all relevant aspects of the healthcare center's finance and the performance of healthcare providers.
+
+**Dashboard Creation**: Create a comprehensive dashboard  that includes:
 * Financial Overview: Summarize the financial health of the healthcare center.
 * Provider Insights: Analyze the performance and efficiency of healthcare providers.
-#### ➤ Visualization: Used appropriate visualizations to effectively communicate the findings.
+
+**Visualization:** Used appropriate visualizations to effectively communicate the findings.
 * Interactivity: Ensured the dashboard is interactive and user-friendly.
 * Clarity: Presented the data in a clear and concise manner, makes it easy for stakeholders to understand the insights.
 
@@ -26,7 +27,7 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/21ade5cd-17fe-4754-b995-eeab3ac3fc2a" />
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/a68cdad1-0731-419c-b582-78c99a1ae500" />
 
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Healthcare center Analytics:
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> **Conclusions and Recommendations Based on the Analysis of the Medical Center's financial performance.**
 
 * ### Financial Metrics 
 
@@ -101,17 +102,17 @@ Top cities: Edinburgh (£ 1,021,264), Birmingham (£ 821,900).
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Expand services in Scotland for better balance.
 
 * ### Visits and Hospitalizations
-General visits: 5,000 (61% non-emergency, 39% emergency). Hospitalized: 1,232 (25% of visits). Outpatient: 2,520.
+**General visits:** 5,000 (61% non-emergency, 39% emergency). **Hospitalized:** 1,232 (25% of visits). **Outpatient:** 2,520.
+
 Length of stay (LOS):
-| Age Group | Number of Patients |
+| Days | Number of Patients |
 |-----------|-----------------|
 | 0-3       | 435             |
 | 4-6       | 407             |
 | 7         | 143             |
 | 8+        | 247             |
 
-Visits by month: Peak in January 2025 (925), lowest in October 2024 (45).
-Hospitalizations by month: Peak in January 2025 (445).
+**Visits by month:** Peak in January 2025 (925), lowest in October 2024 (45). **Hospitalizations by month:** Peak in January 2025 (445).
 
 **Visits by departments and types:**
 
