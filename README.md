@@ -26,6 +26,89 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/21ade5cd-17fe-4754-b995-eeab3ac3fc2a" />
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/a68cdad1-0731-419c-b582-78c99a1ae500" />
 
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Healthcare center Analytics:
+
+* ### Financial Metrics 
+
+| Metric             | Total Amount (GBP) | Average per Visit (GBP) |
+|--------------------|---------------------|---------------------------|
+| Billing Amount     | 3,356,075           | 671.22                    |
+| Medication Cost    | 546,039             | 109.21                    |
+| Treatment Cost     | 2,630,406           | 526.08                    |
+| Insurance Coverage | 2,225,924           | 445.18                    |
+| Out-of-Pocket      | 1,130,151           | 226.03                    |
+| Room Charges       | 179,630             | 35.93                     |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:**  Insurance covers approximately 66% of all bills, while patients pay around 34% out of pocket. Room charges are low (5% of the total) but relevant for hospitalized cases (1,232 visits).  
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Trend:** An increase in billing in 2025 driven by a higher number of visits in Q1.
+
+* ### Department Distribution
+
+| Department       | Billing Amount (GBP) | Share (%) |
+|-----------------|---------------------|-----------|
+| Cardiology       | 846,925             | 25.2      |
+| Orthopedics      | 813,253             | 24.2      |
+| General Surgery  | 783,247             | 23.3      |
+| Neurology        | 478,200             | 14.2      |
+| Pediatrics       | 434,450             | 12.9      |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Cardiology and Orthopedics generate approximately 50% of revenue, likely due to expensive procedures (e.g., MRI/CT). Pediatrics contributes the least but remains stable.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Invest in Neurology for growth, as its share is low.
+
+* ### Procedure Distribution
+
+| Procedure    | Billing Amount (GBP) |
+|-------------|---------------------|
+| X-Ray       | 1,053,529           |
+| CT Scan     | 805,508             |
+| MRI Scan    | 600,739             |
+| Ultrasound  | 481,347             |
+| Blood Test  | 414,952             |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** X-Ray is the leader (31% of total) due to its frequency in emergency cases. MRI and CT are expensive but less common.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Optimize X-Ray procurement to reduce costs.
+
+* ###  Distribution by Diagnoses and Service Types
+
+| Diagnosis      | Emergency (GBP) | Inpatient (GBP) | Outpatient (GBP) | Total (GBP) |
+|---------------|----------------|----------------|-----------------|-------------|
+| Hypertension  | 295,617        | 316,481        | 716,115         | 1,328,213   |
+| Appendicitis  | 143,289        | 146,923        | 371,306         | 661,518     |
+| Asthma        | 187,044        | 186,479        | 255,982         | 629,505     |
+| Migraine      | 89,536         | 88,402         | 147,481         | 325,419     |
+| Fracture      | 121,867        | 117,424        | 172,129         | 411,420     |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Hypertension is the top diagnosis (40% of revenue), mainly outpatient. Emergency visits are higher for Asthma and Fractures.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Focus on chronic disease prevention (Hypertension) to reduce outpatient load.
+
+* ###  Regional Distribution
+
+Top cities: Edinburgh (1,021,264 GBP), Birmingham (821,900 GBP).
+
+| State/Country       | Billing Amount (GBP) | Visits |
+|--------------------|--------------------|--------|
+| Wales              | 1,302,079          | 1,899  |
+| Northern Ireland   | 1,050,377          | 1,548  |
+| England            | 580,205            | 916    |
+| Scotland           | 423,414            | 637    |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Wales is the leader (39% of revenue), likely due to a higher number of visits. England shows lower efficiency (fewer visits but higher bills).
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Conclusions:** Expand services in Scotland for better balance.
+
+* ### Visits and Hospitalizations
+
+
+
+
+
+
+
+
 
 ## Conducted analysis the financial performance of the healthcare center. Additionally, provide insights on the healthcare providers.
 
