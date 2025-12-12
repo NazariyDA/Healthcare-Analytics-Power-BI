@@ -147,3 +147,5 @@ Length of stay (LOS):
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Training for low-rated specialists to improve the quality of medical care (overall average ~4.2).
 
 
+
+### Thank you for your interest in this project 🏆
