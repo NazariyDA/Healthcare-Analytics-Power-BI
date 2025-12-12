@@ -113,20 +113,19 @@ Length of stay (LOS):
 | 8+        | 247             |
 
 
-**Visits by month:** Peak in January 2025 (925), lowest in October 2024 (45). **Hospitalizations by month:** Peak in January 2025 (445).
+**Visits by month:** Peak in January 2025 (1235), lowest in October 2024 (45). **Hospitalizations by month:** Peak in January 2025 (445).
 
 **Visits by departments and types:**
 
-| Department       | Emergency | Inpatient | Outpatient |
-|-----------------|-----------|-----------|------------|
-| Orthopedics      | 343       | 337       | 499        |
-| Cardiology       | 266       | 272       | 743        |
-| General Surgery  | 267       | 268       | 650        |
-| Neurology        | 194       | 183       | 320        |
-| Pediatrics       | 165       | 185       | 308        |
+| Department       | Non-Emergency | Emergency | Total |
+|------------------|---------------|-----------|-------|
+| Cardiology       | 823           | 458       | 1,281 |
+| General Surgery  | 751           | 434       | 1,185 |
+| Orthopedics      | 670           | 509       | 1,179 |
+| Neurology        | 419           | 278       | 697   |
+| Pediatrics       | 408           | 250       | 658   |
 
-
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Emergency visits account for 39%, mainly in Orthopedics (possibly trauma-related).
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Cardiology has the highest number of visits (25.6% of the total), mostly non-emergency (64% within the department). Orthopedics has the highest percentage of emergency visits (43% within the department), likely due to trauma. Non-emergency visits dominate across all departments (an average of 61%), but Orthopedics shows a more balanced ratio (57% non-emergency vs. 43% emergency). Pediatrics has the lowest share of emergency visits (38%), which is expected given the prevalence of scheduled appointments.
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/fe11a30a-381e-4294-bd6e-1bff1546c3a1" /> **Trend:** Increasing visits in 2025, but hospitalizations decline after January. 
 
