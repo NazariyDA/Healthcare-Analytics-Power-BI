@@ -41,7 +41,7 @@ The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). T
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:**  Insurance covers approximately 66% of all bills, while patients pay around 34% out of pocket. Room charges are low (5% of the total) but relevant for hospitalized cases (1,232 visits).  
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Trend:** An increase in billing in 2025 driven by a higher number of visits in Q1.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/55601706-b5a9-4da3-9c7a-8926a6ee60b2" /> **Trend:** An increase in billing in 2025 driven by a higher number of visits in Q1.
 
 * ### Department Distribution
 
@@ -126,7 +126,7 @@ Hospitalizations by month: Peak in January 2025 (445).
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Emergency visits account for 39%, mainly in Orthopedics (possibly trauma-related).
 
-Trend: Increasing visits in 2025, but hospitalizations decline after January. 
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/fe11a30a-381e-4294-bd6e-1bff1546c3a1" /> **Trend:** Increasing visits in 2025, but hospitalizations decline after January. 
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Prepare resources for the winter peak.
 
