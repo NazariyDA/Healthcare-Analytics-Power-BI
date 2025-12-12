@@ -6,8 +6,10 @@ Welcome to the GitHub repository for my exciting Power BI project - Analysis the
 🧩 Used technologies: **Power BI** with **Power Query** (data cleaning and transformation)
 
 ## 🎯 Objectives of this project
-#### ➤ **KPIs:** Identify and present the key performance indicators (KPIs)
-#### ➤ **Detailed Analysis:** Ensure the analysis is thorough and detailed, covering all relevant aspects of the healthcare center's finance and the performance of healthcare providers.
+#### ➤ **KPIs:** 
+* Identify and present the key performance indicators (KPIs)
+#### ➤ **Detailed Analysis:** 
+* Ensure the analysis is thorough and detailed, covering all relevant aspects of the healthcare center's finance and the performance of healthcare providers.
 #### ➤ **Dashboard Creation**: Create a comprehensive dashboard  that includes:
 * Financial Overview: Summarize the financial health of the healthcare center.
 * Provider Insights: Analyze the performance and efficiency of healthcare providers.
@@ -16,6 +18,8 @@ Welcome to the GitHub repository for my exciting Power BI project - Analysis the
 * Clarity: Presented the data in a clear and concise manner, makes it easy for stakeholders to understand the insights.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2e00bec0-d629-4368-9657-90e933350f74" /> General overview
+The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). The total cost of services is **3,356,075 GBP**, with an average of **671.22 GBP** per visit. The dashboard covers financial metrics, regional distribution (map), procedures/diagnoses/departments (bar charts), length of stay (LOS), visit types (pie chart), and monthly trends (line chart).
+
 
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/474bef16-bbf3-431f-be3d-11f6fbf1270c" />
 <img width="818" height="456" alt="image" src="https://github.com/user-attachments/assets/7e98fde3-7688-4680-ad89-c357bc410c82" />
