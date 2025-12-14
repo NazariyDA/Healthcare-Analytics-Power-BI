@@ -14,9 +14,9 @@ Welcome to the GitHub repository for my exciting Power BI project - Analysis the
 * Financial Overview: Summarize the financial health of the healthcare center.
 * Provider Insights: Analyze the performance and efficiency of healthcare providers.
 
-**Visualization:** Used appropriate visualizations to effectively communicate the findings.
-* Interactivity: Ensured the dashboard is interactive and user-friendly.
-* Clarity: Presented the data in a clear and concise manner, makes it easy for stakeholders to understand the insights.
+**Visualization:** Use appropriate visualizations to effectively communicate the findings.
+* Interactivity: Ensure the dashboard is interactive and user-friendly.
+* Clarity: Present the data in a clear and concise manner, makes it easy for stakeholders to understand the insights.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2e00bec0-d629-4368-9657-90e933350f74" /> General overview
 The database contains **5,000** visits (from January 1, 2024 to May 14, 2025). The total cost of services is **£ 3,356,075**, with an average of **£ 674.86** per visit. The dashboard covers financial metrics, regional distribution (map), procedures/diagnoses/departments (bar charts), length of stay (LOS), visit types (pie chart), and monthly trends (line chart).
